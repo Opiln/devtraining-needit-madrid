@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Cr&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;er des records de mani&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;egrave;re al&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;atoire. (Utile pour faire la partie sur la visualisation de donn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;eacute;es)</description>
+        <internal_name>randomrecords</internal_name>
+        <label_cache>[{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.email","label":"1➛Email","reference_display":"Email","type":"email","base_type":"email"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.requested_for.email","label":"1➛requested for➛Email","reference":"","reference_display":"Email","type":"email","base_type":"email","parent_table_name":"sys_user","column_name":"email"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.state","label":"1➛State","reference_display":"State","type":"integer","base_type":"integer"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.when_needed","label":"1➛When needed","reference_display":"When needed","type":"string","base_type":"string"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.what_needed","label":"1➛What needed","reference_display":"What needed","type":"string","base_type":"string"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.requested_type","label":"1➛requested type","reference_display":"requested type","type":"choice","base_type":"choice"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4.requested_for","label":"1➛requested for","reference":"sys_user","reference_display":"requested for","type":"reference","base_type":"reference"},{"name":"51d5e8af-a8bc-422d-9ba7-09675caf1c8e.record","label":"2➛NeedIt Record","reference":"x_58872_needit_needit","reference_display":"NeedIt Record","type":"reference","base_type":"reference"},{"name":"51d5e8af-a8bc-422d-9ba7-09675caf1c8e.table_name","label":"2➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt Table","type":"table_name","base_type":"table_name"},{"name":"89155089-c4c1-40a3-8a98-2fed4d37ffc4._","label":"1➛email","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>RandomRecords</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:01:44</sys_created_on>
+        <sys_id>8d149379db1533005419b0803996192c</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>RandomRecords</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_8d149379db1533005419b0803996192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:26:19</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=8d149379db1533005419b0803996192c"/>
+    <sys_variable_value action="delete_multiple" query="document_key=8d149379db1533005419b0803996192c"/>
+</record_update>

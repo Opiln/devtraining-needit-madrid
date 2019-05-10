@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>G&amp;amp;amp;amp;eacute;n&amp;amp;amp;amp;egrave;re des requestedfor dans une liste de possibilit&amp;amp;amp;amp;eacute;s</description>
+        <internal_name>rand_requestedfor</internal_name>
+        <label_cache>[{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].r}}","label":"step➛Script step➛r","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].re}}","label":"step➛Script step➛re","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req}}","label":"step➛Script step➛req","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_}}","label":"step➛Script step➛req_","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_f}}","label":"step➛Script step➛req_f","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_fo}}","label":"step➛Script step➛req_fo","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_for}}","label":"step➛Script step➛req_for","type":"step","ref":"sys_user"},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_t}}","label":"step➛Script step➛req_t","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_ty}}","label":"step➛Script step➛req_ty","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_typ}}","label":"step➛Script step➛req_typ","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_type}}","label":"step➛Script step➛req_type","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].w}}","label":"step➛Script step➛w","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].wh}}","label":"step➛Script step➛wh","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].wha}}","label":"step➛Script step➛wha","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].what}}","label":"step➛Script step➛what","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].what_needed}}","label":"step➛Script step➛what_needed","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].s}}","label":"step➛Script step➛s","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].st}}","label":"step➛Script step➛st","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].sta}}","label":"step➛Script step➛sta","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].stat}}","label":"step➛Script step➛stat","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].state}}","label":"step➛Script step➛state","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].}}","label":"step➛Script step➛","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].e}}","label":"step➛Script step➛e","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].em}}","label":"step➛Script step➛em","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].ema}}","label":"step➛Script step➛ema","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].emai}}","label":"step➛Script step➛emai","type":"step","ref":""},{"name":"{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].email}}","label":"step➛Script step➛email","type":"step","ref":""}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Random Record</name>
+        <outputs/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:35:14</sys_created_on>
+        <sys_id>efbb5371db5533005419b08039961986</sys_id>
+        <sys_mod_count>28</sys_mod_count>
+        <sys_name>Random Record</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_efbb5371db5533005419b08039961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=efbb5371db5533005419b08039961986"/>
+    <sys_variable_value action="delete_multiple" query="document_key=efbb5371db5533005419b08039961986"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>efbb5371db5533005419b08039961986</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 14:11:01</sys_created_on>
+        <sys_id>9d6dc7c2db5133005419b08039961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <value/>
+        <variable display_value="">196dc7c2db5133005419b08039961947</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=efbb5371db5533005419b08039961986"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>email</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 13:43:51</sys_created_on>
+        <sys_id>a7278f8edb1133005419b080399619f2</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].email}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>requested_for</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:48:47</sys_created_on>
+        <sys_id>12dedf75db5533005419b080399619cf</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_for}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>requested_type</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:48:47</sys_created_on>
+        <sys_id>d2dedf75db5533005419b080399619cf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].req_type}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>state</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:48:47</sys_created_on>
+        <sys_id>96dedf75db5533005419b080399619cf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].state}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>what_needed</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:48:47</sys_created_on>
+        <sys_id>5adedf75db5533005419b080399619cf</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:11:01</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].what_needed}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>when_needed</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 20:48:47</sys_created_on>
+        <sys_id>5ededf75db5533005419b080399619ce</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 14:10:07</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>_</field>
+        <id>efbb5371db5533005419b08039961986</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-10 13:01:40</sys_created_on>
+        <sys_id>218dfec6db1133005419b08039961974</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-10 13:01:40</sys_updated_on>
+        <table>var__m_sys_hub_action_output_efbb5371db5533005419b08039961986</table>
+        <value>{{step[c1ff9ee7-f94a-452f-9c37-2b1ea3768e10].email}}</value>
+    </sys_element_mapping>
+</record_update>
