@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_application">
+    <sys_sg_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <default>false</default>
+        <description>premier test d'application</description>
+        <icon display_value="hand-spock">8a21ce8ddbbe5b002463769e0f96196a</icon>
+        <name>mobile_app</name>
+        <order/>
+        <roles>itil,admin</roles>
+        <sys_class_name>sys_sg_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-15 13:46:33</sys_created_on>
+        <sys_id>e977f8fbdb1133005419b080399619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mobile_app</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_application_e977f8fbdb1133005419b080399619a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-15 13:46:33</sys_updated_on>
+    </sys_sg_application>
+    <sys_translated_text action="delete_multiple" query="documentkey=e977f8fbdb1133005419b080399619a3"/>
+</record_update>
